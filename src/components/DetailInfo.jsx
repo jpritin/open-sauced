@@ -25,6 +25,7 @@ function DetailInfo({icon, text}) {
         })()}
       </div>
       <div style={{fontSize: fontSize.default}}>{text}</div>
+      <h1>contribution and more pizza.</h1>
     </FlexCenter>
   );
 }
